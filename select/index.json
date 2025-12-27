@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MONEY",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-27T14:44:49.045588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Money",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/02_Money_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beer Money",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/03_Beer_Money_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Country Money",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/04_Country_Money_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daddy's Money",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/05_Daddy's_Money_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daddy'S Money (Album Version)",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/06_Daddy'S_Money_(Album_Version)_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daddy's Money",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/07_Daddy's_Money_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For My Money",
+      "artist": "Brandon Lay",
+      "has_synced": true,
+      "path": "select/08_For_My_Money_Brandon_Lay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If You've Got the Money I've Got the Time",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/09_If_You've_Got_the_Money_I've_Got_the_Time_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You've Got the Money I've Got the Time",
+      "artist": "Lefty Frizzell",
+      "has_synced": true,
+      "path": "select/10_If_You've_Got_the_Money_I've_Got_the_Time_Lefty_Frizzell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You've Got the Money I've Got the Time - 78rpm Version",
+      "artist": "Lefty Frizzell",
+      "has_synced": false,
+      "path": "select/11_If_You've_Got_the_Money_I've_Got_the_Time_-_78rpm_Version_Lefty_Frizzell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If You've Got the Money I've Got the Time (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/12_If_You've_Got_the_Money_I've_Got_the_Time_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Money",
+      "artist": "K.T. Oslin",
+      "has_synced": false,
+      "path": "select/13_Money_K.T._Oslin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Money Ain't Everything",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/14_Money_Ain't_Everything_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Money Ain't Everything (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/15_Money_Ain't_Everything_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Money In the Bank",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/16_Money_In_the_Bank_John_Anderson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONEY",
+      "artist": "LISA",
+      "has_synced": false,
+      "path": "select/pl_01_MONEY_LISA.txt"
+    }
+  ]
+}
